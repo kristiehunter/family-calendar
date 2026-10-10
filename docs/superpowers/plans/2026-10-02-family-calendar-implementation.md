@@ -98,9 +98,9 @@ src/
 - App shell component renders
 
 **Files to Create/Modify:**
-- Create: `package.json`, `.eslintrc.json`, `tsconfig.json`, `vite.config.ts`
+- Create: `package.json`, `.eslint.config.json`, `tsconfig.json`, `vite.config.ts`
 - Create: `src/index.tsx`, `src/App.tsx`, `src/index.css`
-- Create: `public/index.html`
+- Create: `index.html`
 
 **Testing:**
 - Dev server starts: `npm run dev`
